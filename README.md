@@ -1,5 +1,5 @@
 # mayr_reanalysis_supp_info
-Code to accompany preprint "Validating the Validation: Reanalyzing a large-scale comparison of Deep Learning and Machine Learning models for bioactivity prediction Robinson 2019"
+Code to accompany preprint ["Validating the Validation: Reanalyzing a large-scale comparison of Deep Learning and Machine Learning models for bioactivity prediction Robinson 2019"](https://arxiv.org/abs/1905.11681)
 
 The manuscript can be cited as:
 ```
