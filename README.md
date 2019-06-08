@@ -13,6 +13,8 @@ The manuscript can be cited as:
 }
 ```
 
+<!--
 If you wish to explore the data yourself, we highly suggest the use of [Google Colab](https://colab.research.google.com/). Included in this repo is the `colab_example.ipynb` notebook, with a direct link to opening the notebook in Colab. The notebook gives an example of how to load the data and uses the excellent [Altair](https://altair-viz.github.io/index.html) visualization library for data exploration. Using Colab will also avoid the annoyances of installing dependencies.
 
 Any of the notebooks in this repo may also be opened in Colab directly from GitHub by using the `File/Open notebook...` tab in Colab. 
+-->
