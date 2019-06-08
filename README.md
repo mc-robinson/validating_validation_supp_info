@@ -13,7 +13,7 @@ The manuscript can be cited as:
 }
 ```
 
-Please see the README file in the `Mayr_reanalysis` folder for further important information regarding that section of the paper.
+Please see the [README](https://github.com/mc-robinson/mayr_reanalysis_supp_info/blob/master/Mayr_reanalysis/README.md) file in the `Mayr_reanalysis` folder for further important information regarding that section of the paper.
 
 <!--
 If you wish to explore the data yourself, we highly suggest the use of [Google Colab](https://colab.research.google.com/). Included in this repo is the `colab_example.ipynb` notebook, with a direct link to opening the notebook in Colab. The notebook gives an example of how to load the data and uses the excellent [Altair](https://altair-viz.github.io/index.html) visualization library for data exploration. Using Colab will also avoid the annoyances of installing dependencies.
