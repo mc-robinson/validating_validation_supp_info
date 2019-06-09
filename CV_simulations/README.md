@@ -5,6 +5,7 @@ The setup of these simulations is adapted from those used in the nice paper by G
 
 **Bibtex**
 
+```
 @article{varoquaux2018cross,
   title={Cross-validation failure: small sample sizes lead to large error bars},
   author={Varoquaux, Ga{\"e}l},
@@ -14,5 +15,6 @@ The setup of these simulations is adapted from those used in the nice paper by G
   year={2018},
   publisher={Elsevier}
 }
+```
 
 His original code may also be found at https://github.com/GaelVaroquaux/cross_validation_failure
